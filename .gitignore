@@ -1,0 +1,7 @@
+target
+.idea
+*.iml
+
+model/src/main/resources/database.properties
+service/src/main/resources/mongo.properties
+
